@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiz | LexArena</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/style5.css">
+</head>
+<body>
+    {% block content %}
+    <h2 class="levelhead">Level {{ level }}</h2>
+    <div class="fbdiv">
+        <p class="youranswerspara"><strong>Your Answers:</strong> {{ selected | join(', ') }}</p>
+        <p class="correctanswerspara"><strong>Correct Answers:</strong> {{ correct | join(', ') }}</p>
+        <h3 class="explainhead">Explanation:</h3>
+        <ul>
+            {% for _, row in explanations.iterrows() %}
+                <li><strong class="strongsections">IPC Section {{ row['IPC_section_number'] }} -- </strong> &nbsp;&nbsp;&nbsp;&nbsp;{{ row['description'] }}</li>
+            {% endfor %}
+        </ul>
+        <a href="/quiz/next"><button class="nextqbtn">Next Question</button></a>
+    </div>
+    {% endblock %}
+</body>
+</html>

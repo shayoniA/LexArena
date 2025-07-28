@@ -1,0 +1,69 @@
+body {
+    background-color: chocolate;
+    overflow: hidden; 
+}
+
+.bgImg {
+    height: 103.5vh;
+    position: absolute; top: -13.5px; right: -50px;
+}
+
+.alreadypara {
+    font-size: 17px; font-family: 'Lora', serif;
+    position: absolute; left: 3.5px; top: 400px;
+    width: 215px; text-align: center;
+}
+
+.alreadylink {
+    color: rgba(255, 255, 255, 0.875);
+}
+
+.signuphead {
+    font-size: 32.5px; font-family: 'Poppins', sans-serif;
+    position: absolute; left: 3.5px; top: 255px;
+    width: 215px; text-align: center;
+    font-weight: 600;
+}
+
+form {
+    position: absolute; top: 175px; right: 200px;
+    background-color: #e6c88c;
+    border: 1.5px solid chocolate;
+    outline: 1px solid chocolate;
+    padding: 20px; border-radius: 10px;
+    width: 450px; height: 237.5px;
+    display: flex; flex-direction: column;
+    justify-content: center; padding-bottom: 13.5px;
+    padding-top: 27.5px;
+}
+
+input {
+    width: 65%; height: 37.5px; margin: auto;
+    border: none; border-radius: 10px;
+    padding-left: 20px; color: black;
+    font-size: 16.5px; font-family: 'Lora', serif;
+    background-color: #ffd786;
+}
+
+label {
+    padding-left: 70px; margin-bottom: 0;
+    font-size: 17.5px; font-family: 'Lora', serif;
+    color: black; font-weight: 500;
+    margin-top: 0;
+}
+
+button {
+    margin: auto; background-color: rgb(188, 91, 22);
+    border-radius: 30px; border: none;
+    width: 100px; height: 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px; font-weight: 600;
+    color: white; margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.logo {
+    width: 120px; height: 120px;
+    border-radius: 50%; border: none;
+    margin-top: 130px; margin-left: 42.5px;
+}

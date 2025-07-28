@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Start yor journey | LexArena</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style1.css') }}">
+</head>
+<body>
+    {% block content %}
+    <img class="bgImg" src="../static/ChatGPT Image Jul 25, 2025, 09_30_53 PM.png" />
+    <h2 class="signuphead">Welcome! Get Started</h2>
+    <img class="logo" src="../static/la.jpg" />
+    <form method="POST">
+        <label>Username:</label>
+        <input type="text" name="username" required><br>
+        <label>Password:</label>
+        <input type="password" name="password" required><br>
+        <button type="submit">Sign Up</button>
+    </form>
+    <p class="alreadypara">Already have an account? <a class="alreadylink" href="/auth/login">Login</a></p>
+    {% endblock %}
+</body>
+</html>

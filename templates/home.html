@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Home | LexArena</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/style3.css">
+</head>
+<body>
+    {% block content %}
+    <div class="scoreleveldiv">
+        <div class="scorediv"><p class="nowscore"><span class="scorelevelspan">{{ score }}</span></p></div>
+        {% if session.username %}
+            <p class="welcomepara">Welcome, <span id="username">{{ session.username }}</span>!</p>
+        {% endif %}
+        <div class="leveldiv"><p class="nowlevel"><span class="scorelevelspan">{{ level }}</span></p></div>
+    </div>
+    <div class="threelinksdiv">
+        <a class="nextlevellink" href="/quiz/next"><button>Start Quiz</button></a>
+        <a class="whereamilink" href="/quiz/youarehere/{{ user_id }}">
+            <button type="button" class="btn btn-info">Where Am I?</button>
+        </a>
+        <a class="logoutlink" href="/auth/signup"><button type="button">Log out</button></a>
+    </div>
+
+    <svg class="curved-text-score curved-text" viewBox="0 0 300 150">
+        <path id="text-curve" d="M 50 100 Q 150 0 250 100" fill="transparent" />
+        <text><textPath href="#text-curve" startOffset="50%" text-anchor="middle">-- SCORE --</textPath></text>
+    </svg>
+    <svg class="curved-text-level curved-text" viewBox="0 0 300 150">
+        <path id="text-curve" d="M 50 100 Q 150 0 250 100" fill="transparent" />
+        <text><textPath href="#text-curve" startOffset="50%" text-anchor="middle">-- LEVEL --</textPath></text>
+    </svg>
+    
+    {% endblock %}
+
+    <script>
+        const span = document.getElementById("username");
+        span.textContent = span.textContent.charAt(0).toUpperCase() + span.textContent.slice(1);
+    </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IPC Quiz Game</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style1.css') }}">
+</head>
+<body>
+    <header>
+        <h1>IPC Quiz Game</h1>
+        {% if session.username %}
+            <p>Welcome, {{ session.username }} | <a href="/auth/signup">Logout</a></p>
+        {% endif %}
+    </header>
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>

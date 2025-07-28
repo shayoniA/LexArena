@@ -1,0 +1,51 @@
+.levelhead {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; margin-top: 40px;
+    margin-bottom: 25px; text-align: center;
+    font-size: 38px;
+}
+
+body {
+    background-color: #353c45;
+    overflow-x: hidden;
+    color: white;
+}
+
+.fbdiv {
+    border: 1.5px solid #ffd174;
+    border-radius: 10px; width: 60%;
+    margin: auto; padding: 35px;
+    margin-top: 60px;
+}
+
+.nextqbtn {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px; font-weight: 600;
+    background-color: chocolate;
+    border-radius: 20px; padding: 10px;
+    border: none; cursor: pointer;
+    position: relative; left: 535px;
+}
+
+.youranswerspara, .correctanswerspara {
+    font-family: 'Lora', serif;
+    margin-top: 0; font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.explainhead {
+    font-family: 'Lora', serif;
+    margin-top: 0; font-size: 17.5px;
+    font-weight: 550;
+}
+
+li {
+    font-size: 16.75px;
+    font-family: 'Lora', serif;
+    margin-bottom: 18px;
+    color: cornsilk;
+}
+
+.strongsections {
+    color: rgb(191, 255, 0); font-weight: 300;
+}

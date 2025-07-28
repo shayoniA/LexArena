@@ -1,0 +1,59 @@
+body {
+    background-color: #353c45;
+    overflow-x: hidden;
+    color: white;
+}
+
+.levelhead {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; margin-top: 40px;
+    margin-bottom: 25px; text-align: center;
+    font-size: 38px;
+}
+
+.question {
+    font-family: 'Lora', serif;
+    margin-top: 0; font-size: 17.5px;
+    margin-bottom: 40px;
+}
+
+.qadiv {
+    border: 1.5px solid #ffd174;
+    border-radius: 10px; width: 60%;
+    margin: auto; padding: 35px;
+    margin-top: 60px;
+}
+
+.instruct {
+    font-family: 'Lora', serif;
+    margin-top: 0; font-size: 16px;
+}
+
+.eachoption {
+    font-family: 'Lora', serif;
+    font-size: 16.75px; display: inline-block;
+    margin-top: 10px; margin-bottom: 10px;
+    margin-left: 10px; width: 150px;
+    column-gap: 20px;
+
+}
+
+.alloptions {
+    display: grid; margin-left: 35px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.checkboxes {
+    width: 15px; height: 15px;
+    border-radius: 50%; cursor: pointer;
+    accent-color: #d4af37;
+}
+
+.submitbtn {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px; font-weight: 600;
+    background-color: chocolate;
+    border-radius: 20px; padding: 10px;
+    border: none; cursor: pointer;
+    position: relative; left: 610px;
+}

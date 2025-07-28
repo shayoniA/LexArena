@@ -1,0 +1,763 @@
+IPC_section_number,description
+1,"Title and extent of operation of the Code:
+This section states that the Indian Penal Code is the official criminal code of India, and it applies to the whole of India, including Jammu and Kashmir after the abrogation of Article 370. It lays the foundation for the jurisdiction of the Code."
+2,"Punishment of offences committed within India:
+This section establishes that every person is subject to punishment under the IPC for acts committed within the territory of India. It affirms the territorial applicability of the Code."
+3,"Punishment of offences committed beyond, but which by law may be tried within, India:
+This section provides that even if an offence is committed outside India, the person can be tried under the IPC in India, provided the law allows such trial within Indian jurisdiction."
+4,"Extension of Code to extra-territorial offences:
+This section extends the operation of the IPC to offences committed by Indian citizens outside India, offences on Indian registered ships or aircraft, and certain offences targeting computer systems located in India."
+5,"Certain laws not to be affected by this Act:
+This section clarifies that the IPC does not affect provisions of any special or local law, or any law passed by a competent legislature that provides specific punishment for particular offences."
+6,"Definitions in the Code to be understood subject to exceptions:
+This section clarifies that all definitions and explanations in the IPC are to be interpreted in light of any exceptions that may apply, whether provided in the Code or any other law."
+7,"Sense of expression once explained:
+It states that once an expression or word is explained or defined in the IPC, that meaning must be applied consistently throughout the Code, unless there is something clearly contrary in the context."
+8,"Gender:
+This section defines that the pronoun ""he"" and its derivatives are to be interpreted as applicable to both male and female, unless the context indicates otherwise."
+9,"Number:
+This section provides that singular words in the IPC also include their plural forms, and vice versa, unless the context clearly demands a different interpretation."
+10,"""Man"", ""Woman"":
+This section defines ""man"" as a male human being of any age and ""woman"" as a female human being of any age, used in the context of the Code."
+11,"""Person"":
+The term ""person"" includes any company or association or body of persons, whether incorporated or not. This means the IPC treats not just individual human beings as persons under the law, but also organizations, companies, societies, or groups acting collectively, even if they are not legally registered."
+12,"""Public"":
+""Public"" refers to any class of the public or the community in general. It is a broad term used throughout the IPC to refer to people at large, or a subset of society that shares a common interest, characteristic, or location."
+13,"""Queen"":
+This section was originally included to refer to the reigning sovereign of England when India was under British rule. It defines ""Queen"" to mean Her Majesty. However, it has no current legal relevance after the Constitution of India came into effect in 1950."
+14,"""Servant of Government"":
+This section provides that the term refers to anyone who is in the service or pay of the Government, or is entrusted with the performance of any public duty by the Government. This includes civil servants, police officers, public officials, and even contract workers or temporary personnel performing duties for the state."
+15,"Definition of ""Court of Justice"":
+""Judge"" is defined as a person who is officially designated to administer justice. A ""Court of Justice"" includes judges and any group of individuals legally authorized to hear and decide on legal matters or try offences. This section ensures that when legal provisions refer to courts or judges, it includes all those properly empowered under law to conduct judicial proceedings."
+16,"“Government”:
+The term ""Government"" refers to the Central Government or the State Government in India. Before independence, this section referred to the British Government, but now it includes both the Union and State governments, depending on the context in which the term is used within the IPC or other applicable laws."
+17,"“Government of India”:
+This section defines “Government of India” specifically as the executive authority of the Union, functioning under the Constitution of India. It distinguishes the central authority from state-level authorities, and is used in the IPC to determine jurisdiction and responsibility when actions involve or affect the national government."
+18,"“India”:
+""India"" means the territory of India as defined in Article 1 of the Constitution of India. This includes the entire area within Indian sovereignty, including the states and union territories. Originally, it referred only to British India, but post-independence, it reflects the full constitutional and political territory of the Republic of India."
+19,"“Judge”:
+A ""Judge"" is a person who is officially designated or appointed by law to decide matters in a court. This includes individuals who preside over courts of law and exercise judicial powers, whether alone or in a group. It also includes those who are empowered to pass legal judgments, such as magistrates, members of tribunals, or special judicial bodies formed by the government."
+20,"“Court of Justice”:
+A ""Court of Justice"" means a judge or a body of judges empowered by law to act judicially and decide cases. This includes civil, criminal, and special courts constituted under various statutes, as long as they are authorized to hear, try, and decide cases. It covers courts established under the Constitution, as well as those created by acts of the legislature or government orders."
+21,"“Public Servant”:
+This section gives a comprehensive definition of who is considered a ""public servant."" It includes a wide range of individuals such as government officers, judges, police officers, officers in the military, people working for local authorities, and employees of government-controlled corporations. It also covers those working under commissions, tribunals, or any statutory authority. The definition is intentionally broad to ensure accountability and includes anyone engaged in public duty or responsibility under government authority, even if only temporarily."
+22,"“Movable Property”:
+""Movable property"" refers to property of every description except immovable property. In the context of criminal law, it includes things that can be physically moved from one place to another, such as vehicles, money, jewelry, and personal belongings. It does not include land or things attached permanently to the earth, which fall under immovable property. This definition is important for offences like theft, misappropriation, and damage to property."
+23,"“Wrongful Gain” and “Wrongful Loss”:
+This section defines ""wrongful gain"" as gaining something unlawfully, especially when the person gaining it is not legally entitled to it. ""Wrongful loss"" is when someone loses something they are legally entitled to, especially when the loss is caused by another person gaining it wrongfully. The section emphasizes that both intentional and unlawful acts that cause unjust enrichment or harm to another’s rightful property come under this provision."
+24,"“Dishonestly”:
+A person is said to act ""dishonestly"" when they do something with the intention of causing wrongful gain to one person or wrongful loss to another. The focus is on the intent behind the act, not just the act itself. It is a key element in crimes such as theft, cheating, criminal breach of trust, and misappropriation, as the law penalizes the fraudulent or deceitful intention."
+25,"“Fraudulently”:
+An act is said to be done ""fraudulently"" when it is done with intent to deceive someone. This definition is crucial for offences like forgery, fraud, cheating, and false representation. The act must involve trickery or dishonest methods to make someone believe something that is not true, thereby causing them to act to their detriment or another's gain."
+26,"“Reason to Believe”:
+This section defines the phrase “reason to believe” as a situation in which a person has sufficient cause, based on facts and circumstances, to believe something to be true. It is not mere suspicion, guesswork, or assumption; it must be backed by logical grounds that would lead a prudent person to form such a belief. This concept is important in criminal cases where establishing a mental element (mens rea) like knowledge or belief is essential, such as in possession of stolen property or criminal intention."
+27,"Property in Possession of Wife, Clerk or Servant:
+This section states that if property is in the possession of a person's wife, clerk, or servant, it is deemed to be in the possession of that person. The principle is based on the assumption that these individuals are handling the property on behalf of their employer or husband. So, for legal purposes—especially in crimes like theft, criminal breach of trust, or misappropriation—such possession is considered an extension of the master’s or employer’s possession."
+28,"“Counterfeit”:
+""Counterfeit"" refers to causing one thing to resemble another with the intent to deceive. A person is said to “counterfeit” if they cause one object (like a document, currency note, seal, or coin) to appear like another in a way that can deceive someone into believing it is genuine. The intention to deceive is essential, whether the imitation is complete or partial. This section is relevant in cases involving forged documents, fake currency, or imitation products intended to pass off as original."
+29,"Section 29: “Document”:
+A “document” means any matter expressed or described upon any substance by means of letters, figures, marks, or any other method, with the intention of recording that matter. This includes printed, written, typed, or etched content and covers modern forms such as digital or electronic documents as well. The primary purpose of a document is to convey or prove some fact. This definition is vital for offences like forgery, document falsification, and fraudulent records.
+Section 29A: “Electronic Record”:
+This section was added to reflect the importance of electronic data. It defines “electronic record” in line with the Information Technology Act, 2000. An electronic record includes data, record or data generated, image or sound stored, received or sent in an electronic form or microfilm or computer-generated microfiche. It gives digital documents the same legal validity as physical documents in the context of criminal offences like cyber fraud, electronic forgery, or data tampering."
+30,"“Valuable Security”:
+A “valuable security” means any document which is, or purports to be, a document whereby a legal right is created, extended, transferred, restricted, extinguished, or released, or where a person is acknowledged to be legally bound to do or not do something. Examples include bonds, promissory notes, title deeds, insurance policies, and share certificates. The section is important in cases of forgery, fraud, and criminal breach of trust, where such documents are tampered with to unlawfully gain advantage."
+31,"“A Will”:
+A “will” denotes any testamentary document. This includes any legal declaration by which a person expresses their wishes as to how their property should be distributed after their death. A will becomes enforceable only after the death of its maker and can be revoked at any time before death. This section is crucial in crimes involving forged wills, suppression of testamentary documents, and disputes over inheritance or succession."
+32,"Words Referring to Acts Include Illegal Omissions:
+This section clarifies that the word “act” in the IPC also includes illegal omissions. An omission is considered illegal if there is a legal duty to act, and failure to do so results in a breach of that duty. For example, a parent neglecting to feed a child, leading to the child’s death, can be held criminally liable. This provision ensures that criminal liability is not restricted to active wrongdoing but extends to failures to act where the law imposes a duty."
+33,"“Act”, “Omission”:
+This section provides definitions for “act” and “omission”. The word “act” denotes a single act or a series of acts, and the word “omission” denotes a single omission or a series of omissions. This clarity ensures that offences composed of multiple actions or repeated failures to act are covered under the law. It forms the foundation for understanding complex criminal behaviours involving repeated conduct or sustained negligence."
+34,"Acts Done by Several Persons in Furtherance of Common Intention:
+Section 34 establishes joint liability when a criminal act is done by several persons in furtherance of a shared intention. Each of them is held liable for the whole act as if it were done by him alone. The key elements are the presence of common intention and participation in the act. For example, if a group plans and executes a robbery, all members are equally responsible—even if only one committed the actual theft—because they acted with shared intent and coordinated effort."
+35,"When Such an Act is Criminal by Reason of its Being Done with a Criminal Knowledge or Intention:
+This section states that when an act is criminal only because it is done with a particular knowledge or intention, and it is done by several persons, each of those persons who joins in the act with such knowledge or intention is liable for the act. This builds upon Section 34 by introducing the idea that not only common intention but also shared criminal knowledge can make participants equally culpable. It is especially relevant in offences like conspiracy or group negligence leading to criminal outcomes."
+36,"“Effect Caused Partly by Act and Partly by Omission”:
+This section deals with situations where a criminal consequence (effect) is caused not just by an act, but also by an omission. That is, if a person partly commits an offence through a physical act and partly by failing to do something they were legally bound to do, the law treats the effect as having been caused by that person. For example, if a jailor physically assaults a prisoner and also withholds necessary medical care (omission), leading to death, both actions together constitute the offence."
+37,"Co-operation by Doing One of Several Acts Constituting an Offence:
+When an offence is committed by several acts done by different people in coordination—each performing a different part of the overall criminal plan—each person is considered to have committed the whole offence. This section complements joint liability laws and applies in crimes like dacoity or gang assault, where each person’s specific act contributes to the entire offence, even if none acted alone to complete the crime."
+38,"Persons Concerned in Criminal Act May Be Guilty of Different Offences:
+This section recognizes that different participants in a single criminal act may be guilty of different offences based on their individual intentions or knowledge. For example, if A intends to cause grievous hurt and B intends only to cause fear, but both attack a victim who dies, A may be liable for culpable homicide while B may be liable only for assault. The law differentiates guilt based on mental state, even in group actions."
+39,"“Voluntarily”:
+A person is said to cause an effect “voluntarily” when they cause it by means whereby they intended to cause it, or by means which they knew or had reason to believe would probably cause it. The word emphasizes mental awareness or intention. For instance, throwing acid knowing it could cause injury—even if not specifically intended—would be considered voluntary under this section, laying the groundwork for liability."
+40,"“Offence”:
+The term “offence” is defined broadly in this section. In the context of the Indian Penal Code, it means any act or omission made punishable by the Code. In other laws, it can also refer to acts punishable under those specific statutes. Additionally, the section clarifies that the meaning of “offence” varies depending on the context—sometimes limited to acts punishable with imprisonment or fine. This section is crucial in determining what qualifies as a criminal offence in legal proceedings."
+41,"“Special Law”:
+A special law is defined as a law that is applicable to a particular subject or class of people and overrides the general law on that subject. These laws are meant to operate in special circumstances or on special subjects, such as the NDPS Act (drugs) or POCSO Act (children). The section clarifies that when a law governs a specific domain differently from the general law (like the IPC), it is termed as a ""special law."""
+42,"“Local Law”:
+This section defines a ""local law"" as any law that operates only within a specific part of India, like a state or a region. It contrasts with general or central laws that apply throughout India. For example, laws enacted by state legislatures for municipal governance, land reforms, or religious institutions may be considered local laws. The term helps distinguish geographically-restricted statutes from pan-India laws."
+43,"“Illegal”, “Legally Bound to Do”:
+This section gives legal definitions for the terms ""illegal"" and ""legally bound to do.""
+“Illegal” includes everything that is an offence, or is prohibited by law, or causes a civil wrong.
+A person is “legally bound to do” something if they are under a legal obligation to perform that act.
+For instance, not testifying in court when summoned may be considered illegal under this definition. This section is important for interpreting duties and offences."
+44,"“Injury”:
+“Injury” refers to any harm illegally caused to a person’s body, mind, reputation, or property. It is a broad and inclusive definition that allows for both physical and non-physical harms to be actionable under criminal law. For example, defamation (harm to reputation) or cheating (harm to property) fall under this, as well as bodily harm. This definition is crucial to identifying what types of harm are punishable."
+45,"“Life”:
+This section simply defines the word “life” in the context of the IPC to mean the life of a human being, unless the context states otherwise. It ensures that any legal references to life—such as in the case of offences like murder or attempted murder—are clearly understood to apply to human life and not to animals or other interpretations."
+46,"“Death”:
+This section defines “death” to mean the death of a human being, unless the context indicates otherwise. It provides clarity that in legal provisions concerning killing or causing death, it refers only to human life. This ensures that offences like murder or culpable homicide are interpreted specifically in relation to human beings."
+47,"“Animal”:
+According to this section, the term “animal” refers to any living creature other than a human being. This includes birds, beasts, reptiles, and other living creatures. The section is significant when addressing offences involving cruelty or harm to animals, property damage caused by animals, or other such situations where non-human life is affected."
+48,"“Vessel”:
+A “vessel” is defined as anything made for the conveyance by water of human beings or of property. This includes ships, boats, rafts, and any floating object intended for transportation. It is relevant in offences related to maritime transport, piracy, or crimes committed aboard such vessels."
+49,"“Year”, “Month”:
+This section standardizes time references within the IPC.
+“Year” means a calendar year, and
+“Month” means a calendar month.
+This definition is essential for interpreting time-based requirements or punishments in the IPC, such as imprisonment durations, limitation periods, and age-related criteria."
+50,"“Section”:
+The term “section” refers to the sections of the Indian Penal Code itself, unless a different statute is clearly mentioned. This helps in clear interpretation when the IPC refers to other parts of itself. For example, if a provision says “punishable under Section 302,” it means Section 302 of this very Code."
+51,"“Oath”:
+This section defines ""oath"" to include any affirmation or declaration made under the law that has a similar effect as an oath. It encompasses both religious oaths and secular affirmations. This is important for perjury-related offences or any legal process that involves sworn statements, ensuring that legal consequences apply regardless of the religious or secular form of the oath."
+52,"Section 52: “Good faith”:
+A thing is said to be done or believed in “good faith” when it is done or believed with due care and attention. The key idea here is that honest intention is not enough; reasonable caution and diligence must be exercised. This section is crucial when determining liability in cases involving mistakes, exemptions, or certain defences in criminal law.
+Section 52A: “Harbour”:
+This section defines “harbour” in a legal context. It means offering shelter, food, drink, money, clothes, arms, ammunition, or any kind of assistance to a person, particularly to help them evade arrest or punishment. It includes even concealing someone in a place. However, it explicitly excludes actions by a wife offering harbour to her husband. This is used in offences related to aiding criminals or absconders."
+53,"Punishments:
+This section lists the various types of punishments recognized under the IPC. They include:
+Death
+Imprisonment for life
+Imprisonment – either rigorous (with hard labour) or simple
+Forfeiture of property
+Fine
+This lays the foundation for the sentencing part of criminal law and specifies the tools available to judges when passing judgment on offenders."
+54,"Commutation of sentence of death:
+This provision allows the appropriate government (Central or State) to commute a death sentence into any other punishment provided under the IPC, such as life imprisonment. This power is discretionary and is often used in cases involving mercy petitions or re-evaluation of circumstances after conviction."
+55,"Commutation of sentence of imprisonment for life:
+Similar to Section 54, this section empowers the appropriate government to commute a sentence of life imprisonment to a lesser term of imprisonment not exceeding 14 years. It enables mercy and flexibility in dealing with long-term imprisonment cases, often based on rehabilitation, age, or good conduct of the prisoner."
+56,"Sentence of Europeans and Americans to penal servitude:
+This section has been repealed. It originally addressed the punishment of Europeans and Americans under Indian law, specifying that they could be sentenced to penal servitude. However, it has since been removed as it is obsolete and discriminatory in modern legal systems."
+57,"Fractions of terms of punishment:
+In calculating fractions of a term of punishment, imprisonment for life is considered equivalent to imprisonment for 20 years. This provision is important for determining eligibility for remission, parole, or calculation of concurrent/consecutive sentences where portions of a sentence are referenced (e.g., “one-third of the punishment”)."
+58,"Offenders sentenced to transportation how dealt with until transported:
+This section has been repealed. It previously dealt with the custody and management of convicts sentenced to ""transportation"" (an old British-era punishment involving deportation to penal colonies). Since transportation as a punishment has been abolished, the section no longer applies."
+59,"Transportation instead of imprisonment:
+This section has also been repealed. It used to allow courts to sentence someone to transportation instead of imprisonment. Like Section 58, it was rooted in colonial-era laws and is no longer relevant in the modern Indian penal framework."
+60,"Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple:
+This section provides flexibility to the courts in deciding the nature of imprisonment when a law specifies only “imprisonment” without clarifying whether it should be rigorous or simple. The court can then decide whether the sentence should be:
+wholly rigorous (involving hard labour),
+wholly simple (without labour), or
+partly rigorous and partly simple.
+This ensures that the punishment fits both the crime and the convict's circumstances."
+61,"Sentence of forfeiture of property:
+This section has been repealed. It earlier allowed courts to impose forfeiture of property as a punishment. Over time, this provision was found to be too broad and was repealed, though specific laws still allow forfeiture for certain offences like terrorism, smuggling, or corruption under other statutes."
+62,"Forfeiture of property in respect of offenders punishable with death, transportation or imprisonment:
+This section has also been repealed. It originally stated that persons convicted of serious crimes such as those punishable with death or transportation could have their property forfeited. This general rule was removed to prevent excessive penalization unless explicitly provided by law."
+63,"Amount of fine:
+When an offence is punishable with a fine, the amount is left to the discretion of the court unless a maximum or minimum is fixed by law. The fine must be proportionate to the nature of the offence and the financial capacity of the offender. The intent is to ensure that fines serve as meaningful deterrents without being unjust."
+64,"Sentence of imprisonment for non-payment of fine:
+If an offender fails to pay a fine imposed by the court, he can be sentenced to imprisonment. The term of such imprisonment must be prescribed in the sentence itself and cannot exceed the limits set by law. This imprisonment is in addition to the original punishment and acts as an enforcement mechanism for fines."
+65,"Limit to imprisonment for non-payment of fine when offence punishable with imprisonment and fine:
+When the law provides for both imprisonment and fine for an offence, and the offender fails to pay the fine, the imprisonment for non-payment of fine cannot exceed one-fourth of the maximum imprisonment term prescribed for the offence. This ensures proportionality and prevents excessively long detention due to inability to pay."
+66,"Description of imprisonment for non-payment of fine:
+When an offender is sentenced to imprisonment for failure to pay a fine, the type of imprisonment must match the type prescribed for the original offence—either rigorous (hard labour) or simple. This ensures consistency in the nature of punishment even when it arises due to non-payment of a fine."
+67,"Imprisonment for non-payment of fine, when offence punishable with fine only:
+If an offence is punishable only with a fine and the offender defaults in payment, the law allows the court to impose imprisonment. The term of imprisonment depends on the amount of fine:
+Up to ₹50: max 2 months
+Between ₹50 and ₹100: max 4 months
+More than ₹100: max 6 months
+This provision ensures that non-payment of fines in minor cases doesn't lead to disproportionately long imprisonments."
+68,"Imprisonment to terminate on payment of fine:
+If someone is serving imprisonment due to non-payment of a fine, they are to be released immediately if the fine is paid in full or recovered. This enables the offender to end their detention at any point by satisfying the financial penalty."
+69,"Termination of imprisonment on payment of proportional part of fine:
+If only a part of the fine is paid or recovered while the person is serving imprisonment for non-payment, the jail term must be reduced proportionally. The court must calculate and reduce the imprisonment based on how much of the fine has been satisfied. This ensures fairness when partial payment is made."
+70,"Fine leviable within six years or during imprisonment—Death not to discharge property from liability:
+A fine can be recovered at any time within six years from the date of the sentence, or during the period the offender is imprisoned, whichever is longer. If the offender dies, his property still remains liable for the unpaid fine, unless the sentence itself has expired. This gives the state power to enforce fines even posthumously through the estate of the convict."
+71,"Limit of punishment of offence made up of several offences:
+If a single act constitutes multiple offences, the offender cannot be punished separately for each component beyond the maximum punishment prescribed for the most serious offence. This ensures the offender doesn't face exaggerated punishment for the same action split across various legal definitions. For example, if an act qualifies as both cheating and forgery, the sentence can't exceed the highest punishment applicable to one of them."
+72,"Punishment of person guilty of one of several offences, the judgment stating that it is doubtful of which:
+If it’s proven that the accused committed one of several offences, but the court cannot determine exactly which one, the offender shall be punished with the lesser punishment among the possible options. This rule reflects the benefit of doubt principle—when there's ambiguity, the punishment must lean in favor of the accused."
+73,"Solitary confinement:
+Solitary confinement—where the prisoner is kept completely isolated—can be ordered only when the offence is punishable with rigorous imprisonment. Even then, it is subject to strict limits: it can't exceed 3 months in total, and within that, it cannot be more than 14 days at a time, with at least 14 days in between successive spells. For imprisonment terms shorter than 6 months, solitary confinement is limited to 1 month."
+74,"Limit of solitary confinement:
+This section further restricts the use of solitary confinement. It states that even when lawful, the offender cannot be kept in solitary confinement for more than seven days at a time. And between each such period, there must be a break of at least seven days. This protects prisoners from the psychological and physical harms of prolonged isolation."
+75,"Enhanced punishment for certain offences after previous conviction:
+If a person is convicted of a serious offence (punishable by 3+ years) and later commits the same or a similar serious offence, the law allows for an enhanced punishment, meaning the person can be punished more severely than a first-time offender. This provision is meant to deter repeat offenders by imposing stricter consequences."
+76,"Act done by a person bound, or by mistake of fact believing himself bound, by law:
+If a person performs an act in good faith believing he is bound by law to do so—even if he is mistaken about that fact—he is not guilty of an offence. For example, a soldier who fires upon someone on a superior’s lawful order, believing he is legally required to do so, is protected under this section even if the order was later found to be unlawful."
+77,"Act of Judge when acting judicially:
+No judge shall be liable for any act done in the exercise of their judicial duties, provided it is done in good faith and within their jurisdiction. This protects judges from criminal liability while performing their official functions, even if their decisions are later found to be incorrect."
+78,"Act done pursuant to the judgment or order of Court:
+If a person acts in accordance with a judgment or order of a court, and believes it to be lawful—even if the court had no jurisdiction or passed an illegal order—they are not criminally liable. The key here is good faith and belief in the legality of the court's directive."
+79,"Act done by a person justified, or by mistake of fact believing himself justified, by law:
+A person is not guilty of a crime if they do something believing in good faith that they are justified by law, even if their belief is based on a mistake of fact—not law. For instance, if a person sees someone forcibly entering a house and mistakenly thinks it's a thief, and uses force to restrain him, he will not be liable under this section."
+80,"Accident in doing a lawful act:
+If an act is done accidentally, without criminal intent or knowledge, while the person was doing something lawful in a lawful manner using proper care and caution, it is not an offence. For example, if while legally cutting a tree with caution, a branch accidentally falls and injures someone, the person is not guilty."
+81,"Act likely to cause harm, but done without criminal intent, and to prevent other harm:
+When an act is done without any criminal intention and in good faith to prevent or avoid greater harm—even if it unintentionally causes harm—the person is not guilty of an offence. For example, demolishing a house to stop a spreading fire, even if it causes loss to the house owner, is protected under this section."
+82,"Act of a child under seven years of age:
+A child under the age of seven years cannot be held criminally responsible for any act, as they are considered incapable of forming criminal intent. This section offers absolute immunity from prosecution to such children."
+83,"Act of a child above seven and under twelve of immature understanding:
+Children aged between seven and twelve are exempt from criminal liability if they have not attained sufficient maturity to understand the nature and consequences of their conduct. Whether the child understood or not is determined on a case-by-case basis."
+84,"Act of a person of unsound mind:
+An act committed by a person who, due to unsoundness of mind, was incapable of knowing the nature of the act or that it was wrong or contrary to law, is not an offence. This section forms the basis of the insanity defence in Indian criminal law."
+85,"Act of a person incapable of judgment by reason of intoxication caused against his will:
+If a person does something while intoxicated involuntarily (e.g., drugged or forced to consume alcohol) and becomes incapable of understanding the nature or legality of the act, they are not criminally liable. The key requirement is that the intoxication was not self-induced."
+86,"Offence requiring a particular intent or knowledge committed by one who is intoxicated:
+When a person commits an offence that requires specific knowledge or intent while intoxicated, they are considered to have the same knowledge or intent as if they were not intoxicated—provided the intoxication was voluntary. Thus, self-induced intoxication does not excuse criminal intent."
+87,"Act not intended and not known to be likely to cause death or grievous hurt, done by consent:
+If a person above 18 years of age voluntarily consents to take part in an act that causes harm, and the harm was not intended or known to likely cause death or grievous hurt, the act is not an offence. For example, injury caused in a friendly boxing match with consent."
+88,"Act not intended to cause death, done by consent in good faith for person's benefit:
+When a person performs an act in good faith for the benefit of another, and the latter has given consent—even if the act causes harm or death—it is not an offence, provided the act was not intended to cause death."
+89,"Act done in good faith for benefit of child or insane person, by or with consent of guardian:
+An act done in good faith for the benefit of a child (under 12) or a person of unsound mind, with the consent of their guardian or authorized person, is not an offence—even if it results in harm. This excludes acts intended to cause death or grievous hurt, or acts which the individual is capable of understanding and refusing."
+90,"Consent known to be given under fear or misconception:
+Consent is not valid if it is given under fear of injury, under a misconception of fact, or if the person giving consent is not capable of understanding the nature and consequence of the act. This section safeguards against coerced or uninformed consent."
+91,"Exclusion of acts which are offences independently of harm caused:
+This section clarifies that just because someone consents to an act that causes harm, it doesn’t mean the act is automatically exempt from being an offence. If the act is punishable irrespective of the harm caused (like causing miscarriage or grievous hurt by dangerous weapons), the act remains criminal even with consent."
+92,"Act done in good faith for benefit of a person without consent:
+If a person acts in good faith for the benefit of another and there is no time to obtain the person’s consent (like in a medical emergency), the act is not an offence—even if harm is caused. However, this does not apply to acts intended to cause death, grievous hurt, or acts against the express wish of the person."
+93,"Communication made in good faith:
+Any communication made in good faith for someone’s benefit is not an offence even if it causes harm. For example, a doctor giving a serious diagnosis in good faith is not liable if the news causes distress or harm to the patient."
+94,"Act done by a person compelled by threats:
+If a person does an act under threat of instant death, they are excused from liability, except for murder or offences against the state punishable with death. This section acknowledges extreme compulsion but excludes the gravest crimes."
+95,"Act causing slight harm:
+Acts that cause harm so trivial that no person of ordinary sense would complain are not considered offences under the IPC. This provision ensures that the law is not misused for insignificant or petty grievances."
+96,"Things done in private defence:
+This section provides the right of private defence, stating that nothing is an offence if done in the exercise of that right. It forms the foundation for lawful self-defence, provided the act meets the conditions laid down in subsequent sections."
+97,"Right of private defence of the body and of property:
+Every person has the right to defend:
+Their own body and another’s body against offences affecting the human body;
+Their own property or another’s property, whether movable or immovable, against acts which are offences like theft, robbery, mischief, or criminal trespass."
+98,"Right of private defence against the act of a person of unsound mind, etc.:
+The right of private defence also applies even when the person causing apprehension (the aggressor) is of unsound mind, intoxicated, or under a misconception of fact, as long as the act would otherwise be considered an offence. The defender's right does not get negated by the mental condition of the attacker."
+99,"Acts against which there is no right of private defence:
+Limits the right of private defence. It does not apply when:
+There is time to seek protection from public authorities,
+The act is done by a public servant acting in good faith,
+The harm caused is more than necessary.
+This ensures the defence is proportional and not misused."
+100,"When the right of private defence of the body extends to causing death:
+This critical section allows causing death in private defence when there is reasonable apprehension of:
+Death,
+Grievous hurt,
+Rape,
+Unnatural lust,
+Kidnapping or abduction,
+Wrongful confinement that cannot be avoided otherwise.
+The section defines the extreme circumstances under which lethal force in self-defence is legally justified."
+101,"When such right extends to causing any harm other than death:
+If the act against a person does not create a reasonable fear of death or grievous hurt, the right of private defence of the body does not extend to causing death. In such cases, one can only inflict harm necessary for protection, but not to the extent of killing the aggressor."
+102,"Commencement and continuance of the right of private defence of the body:
+This section explains that the right begins when a reasonable apprehension of danger to the body arises from an attempt or threat, even before the actual assault. It continues as long as the danger persists. Once the threat ends, the right to private defence ends too."
+103,"When the right of private defence of property extends to causing death:
+The right to defend property may extend to causing death in cases of:
+Robbery,
+House-breaking by night,
+Mischief by fire on a dwelling house,
+Theft or mischief or house trespass accompanied by danger to life or grievous hurt.
+This applies when such acts involve violence or severe threat during the crime."
+104,"When such right extends to causing any harm other than death:
+If the crime against property is not of a kind mentioned in Section 103 (i.e., not serious enough to justify killing), the person may defend the property using reasonable force, but not to the extent of causing death. This balances protection with restraint."
+105,"Commencement and continuance of the right of private defence of property:
+The right of defence of property begins when:
+There is an apprehension of theft, robbery, mischief, or criminal trespass.
+For theft, the right continues till the offender has escaped with the property and public help cannot be obtained.
+For robbery, it continues as long as the offender causes or threatens death or hurt.
+For criminal trespass or mischief, it continues as long as the offence persists.
+This section defines the time window during which the right to defend property lawfully exists."
+106,"Right of private defence against deadly assault when there is risk of harm to innocent person:
+This section allows a person to exercise the right of private defence even if it might risk harm to an innocent person, provided:
+The defender is under a deadly assault.
+There is no safe way to avoid the attack.
+For example, if someone is attacked in a confined space and defending themselves may harm a bystander, they are still legally protected."
+107,"Abetment of a thing:
+A person abets (encourages or assists) the commission of an offence when they:
+Instigate someone to do it,
+Engage in a conspiracy to do it,
+Intentionally aid in doing it through act or illegal omission.
+This section does not require the crime to be completed; abetment itself is punishable."
+108,"Section 108: Abettor:
+An abettor is someone who abets the offence as defined in Section 107. This includes:
+Those who aid or encourage even if they’re not present at the crime scene,
+People of unsound mind or minors (if they instigate someone else), or foreigners, even if they cannot be punished themselves for the crime abetted.
+Section 108A: Abetment in India of offences outside India:
+If a person in India abets an act outside India which would be an offence if committed in India, they can still be punished under Indian law, provided the offence is punishable by Indian law and committed outside India. This ensures international accountability of Indian residents."
+109,"Punishment of abetment if the act abetted is committed in consequence and when no express provision is made for its punishment:
+If a person abets a crime, and the crime is committed as a result, then they are punished with the same punishment as the person who committed it — unless the IPC has a separate punishment provision for that abetment."
+110,"Punishment of abetment if person abetted is incapable of committing offence:
+If a person abets another who is incapable of committing the offence (e.g., due to age, unsoundness of mind, intoxication), and the act would have been a crime if committed by a capable person, the abettor is still punishable as if the offence were committed."
+111,"Liability of abettor when one act abetted and different act done
+Even if the act done is different from what was abetted, the abettor is still liable for the act that is ultimately committed if:
+The act committed was a probable consequence of the abetment.
+📌 Example: If A instigates B to rob a house, and B ends up committing murder during the robbery, A can also be held liable for murder if it was a likely outcome of the instigation."
+112,"Abettor when liable to cumulative punishment for act abetted and for act done
+If the abettor is guilty of both the act abetted and the act actually done, and both are offences, they can be punished for both, unless the law states otherwise.
+📌 Example: A tells B to beat C. B kills C instead. If A's instigation was so serious that killing was a foreseeable outcome, A may be punished for both abetment of hurt and culpable homicide."
+113,"Liability of abettor for an effect caused by the act abetted different from that intended by the abettor
+If an abettor intends to cause one effect but a different effect results, and that effect is also criminal and likely from the act, the abettor is liable for the actual outcome.
+📌 Example: A instigates B to throw acid to scare C. B throws a stronger acid and causes grievous hurt. A is liable for grievous hurt."
+114,"Abettor present when offence is committed
+When the abettor is present at the scene when the offence occurs, they are treated as if they had committed the offence themselves.
+📌 Example: A encourages B to steal and watches from nearby. A is treated as if A committed theft."
+115,"Abetment of offence punishable with death or imprisonment for life—if offence not committed
+If a person abets a crime punishable with death or life imprisonment, but the crime is not committed, the abettor is still punished with:
+Up to 7 years imprisonment, and
+Fine.
+🗡️ If an act is done in consequence of that abetment, even if the final crime isn’t committed, punishment may increase to 14 years.
+📌 Example: A instigates B to kill C. B refuses. A can still be punished under Section 115."
+116,"Abetment of offence punishable with imprisonment—if offence not committed
+If someone abets an offence punishable with imprisonment, and:
+The offence is not committed, and
+No act is done in consequence of the abetment,
+then the abettor can still be punished with:
+Up to one-fourth of the maximum punishment for the offence abetted,
+Plus fine.
+🔺 If any act is done in consequence of the abetment, but the full offence is still not committed, then:
+Up to half of the maximum punishment for the offence can be given.
+📌 Example: A tries to convince B to commit theft, but B refuses. A can still be punished with up to one-fourth of the maximum sentence for theft."
+117,"Abetting commission of offence by the public or more than ten persons
+Whoever abets an offence involving more than ten persons (unlawful assembly) is punished with:
+Up to 3 years imprisonment, or
+Fine, or
+Both.
+📌 Example: A urges a crowd of 15 people to attack a police station. Even if the attack doesn't occur, A is punishable under this section."
+118,"Concealing design to commit offence punishable with death or imprisonment for life
+If a person:
+Intends to facilitate the commission of such an offence, and
+Voluntarily conceals its design (by act or omission),
+they can be punished as follows:
+If the offence is committed:
+Up to 7 years imprisonment, and
+Fine.
+If the offence is not committed:
+Up to 3 years imprisonment, and
+Fine.
+📌 Example: A knows that B is planning to assassinate a politician but hides the fact from authorities. A is liable under Section 118."
+119,"Public servant concealing design to commit offence which it is his duty to prevent
+If a public servant:
+Knows about a plan to commit an offence,
+It’s their duty to prevent it, but
+They intentionally conceal the plan,
+then they are punished as follows:
+If the offence is committed:
+Up to half of the maximum punishment for that offence.
+If the offence is not committed:
+Up to one-fourth of the maximum punishment.
+📌 Example: A police officer learns that a murder is going to take place but deliberately does not act to stop it. They are liable under this section."
+120,"Concealing design to commit offence punishable with imprisonment
+Whoever:
+Intends to facilitate an offence punishable with imprisonment,
+Conceals the plan, and
+Fails to give notice to authorities,
+is punished with:
+Up to 6 months imprisonment, or
+Fine, or
+Both.
+📌 Example: A hears B planning a kidnapping but says nothing. A can be punished under Section 120."
+121,Description of IPC Section 121
+122,Description of IPC Section 122
+123,Description of IPC Section 123
+124,Description of IPC Section 124
+125,Description of IPC Section 125
+126,Description of IPC Section 126
+127,Description of IPC Section 127
+128,Description of IPC Section 128
+129,Description of IPC Section 129
+130,Description of IPC Section 130
+131,Description of IPC Section 131
+132,Description of IPC Section 132
+133,Description of IPC Section 133
+134,Description of IPC Section 134
+135,Description of IPC Section 135
+136,Description of IPC Section 136
+137,Description of IPC Section 137
+138,Description of IPC Section 138
+139,Description of IPC Section 139
+140,Description of IPC Section 140
+141,Description of IPC Section 141
+142,Description of IPC Section 142
+143,Description of IPC Section 143
+144,Description of IPC Section 144
+145,Description of IPC Section 145
+146,Description of IPC Section 146
+147,Description of IPC Section 147
+148,Description of IPC Section 148
+149,Description of IPC Section 149
+150,Description of IPC Section 150
+151,Description of IPC Section 151
+152,Description of IPC Section 152
+153,Description of IPC Section 153
+154,Description of IPC Section 154
+155,Description of IPC Section 155
+156,Description of IPC Section 156
+157,Description of IPC Section 157
+158,Description of IPC Section 158
+159,Description of IPC Section 159
+160,Description of IPC Section 160
+161,Description of IPC Section 161
+162,Description of IPC Section 162
+163,Description of IPC Section 163
+164,Description of IPC Section 164
+165,Description of IPC Section 165
+166,Description of IPC Section 166
+167,Description of IPC Section 167
+168,Description of IPC Section 168
+169,Description of IPC Section 169
+170,Description of IPC Section 170
+171,Description of IPC Section 171
+172,Description of IPC Section 172
+173,Description of IPC Section 173
+174,Description of IPC Section 174
+175,Description of IPC Section 175
+176,Description of IPC Section 176
+177,Description of IPC Section 177
+178,Description of IPC Section 178
+179,Description of IPC Section 179
+180,Description of IPC Section 180
+181,Description of IPC Section 181
+182,Description of IPC Section 182
+183,Description of IPC Section 183
+184,Description of IPC Section 184
+185,Description of IPC Section 185
+186,Description of IPC Section 186
+187,Description of IPC Section 187
+188,Description of IPC Section 188
+189,Description of IPC Section 189
+190,Description of IPC Section 190
+191,Description of IPC Section 191
+192,Description of IPC Section 192
+193,Description of IPC Section 193
+194,Description of IPC Section 194
+195,Description of IPC Section 195
+196,Description of IPC Section 196
+197,Description of IPC Section 197
+198,Description of IPC Section 198
+199,Description of IPC Section 199
+200,Description of IPC Section 200
+201,Description of IPC Section 201
+202,Description of IPC Section 202
+203,Description of IPC Section 203
+204,Description of IPC Section 204
+205,Description of IPC Section 205
+206,Description of IPC Section 206
+207,Description of IPC Section 207
+208,Description of IPC Section 208
+209,Description of IPC Section 209
+210,Description of IPC Section 210
+211,Description of IPC Section 211
+212,Description of IPC Section 212
+213,Description of IPC Section 213
+214,Description of IPC Section 214
+215,Description of IPC Section 215
+216,Description of IPC Section 216
+217,Description of IPC Section 217
+218,Description of IPC Section 218
+219,Description of IPC Section 219
+220,Description of IPC Section 220
+221,Description of IPC Section 221
+222,Description of IPC Section 222
+223,Description of IPC Section 223
+224,Description of IPC Section 224
+225,Description of IPC Section 225
+226,Description of IPC Section 226
+227,Description of IPC Section 227
+228,Description of IPC Section 228
+229,Description of IPC Section 229
+230,Description of IPC Section 230
+231,Description of IPC Section 231
+232,Description of IPC Section 232
+233,Description of IPC Section 233
+234,Description of IPC Section 234
+235,Description of IPC Section 235
+236,Description of IPC Section 236
+237,Description of IPC Section 237
+238,Description of IPC Section 238
+239,Description of IPC Section 239
+240,Description of IPC Section 240
+241,Description of IPC Section 241
+242,Description of IPC Section 242
+243,Description of IPC Section 243
+244,Description of IPC Section 244
+245,Description of IPC Section 245
+246,Description of IPC Section 246
+247,Description of IPC Section 247
+248,Description of IPC Section 248
+249,Description of IPC Section 249
+250,Description of IPC Section 250
+251,Description of IPC Section 251
+252,Description of IPC Section 252
+253,Description of IPC Section 253
+254,Description of IPC Section 254
+255,Description of IPC Section 255
+256,Description of IPC Section 256
+257,Description of IPC Section 257
+258,Description of IPC Section 258
+259,Description of IPC Section 259
+260,Description of IPC Section 260
+261,Description of IPC Section 261
+262,Description of IPC Section 262
+263,Description of IPC Section 263
+264,Description of IPC Section 264
+265,Description of IPC Section 265
+266,Description of IPC Section 266
+267,Description of IPC Section 267
+268,Description of IPC Section 268
+269,Description of IPC Section 269
+270,Description of IPC Section 270
+271,Description of IPC Section 271
+272,Description of IPC Section 272
+273,Description of IPC Section 273
+274,Description of IPC Section 274
+275,Description of IPC Section 275
+276,Description of IPC Section 276
+277,Description of IPC Section 277
+278,Description of IPC Section 278
+279,Description of IPC Section 279
+280,Description of IPC Section 280
+281,Description of IPC Section 281
+282,Description of IPC Section 282
+283,Description of IPC Section 283
+284,Description of IPC Section 284
+285,Description of IPC Section 285
+286,Description of IPC Section 286
+287,Description of IPC Section 287
+288,Description of IPC Section 288
+289,Description of IPC Section 289
+290,Description of IPC Section 290
+291,Description of IPC Section 291
+292,Description of IPC Section 292
+293,Description of IPC Section 293
+294,Description of IPC Section 294
+295,Description of IPC Section 295
+296,Description of IPC Section 296
+297,Description of IPC Section 297
+298,Description of IPC Section 298
+299,Description of IPC Section 299
+300,Description of IPC Section 300
+301,Description of IPC Section 301
+302,"Punishment for Murder:
+This section deals with the punishment for committing murder.
+Whoever commits murder shall be punished with:
+Death, or
+Imprisonment for life, and
+Fine (optional)
+📌 Example: A intentionally stabs B with the intent to kill, and B dies. A is guilty of murder under Section 302."
+303,Description of IPC Section 303
+304,Description of IPC Section 304
+305,Description of IPC Section 305
+306,Description of IPC Section 306
+307,Description of IPC Section 307
+308,Description of IPC Section 308
+309,Description of IPC Section 309
+310,Description of IPC Section 310
+311,Description of IPC Section 311
+312,Description of IPC Section 312
+313,Description of IPC Section 313
+314,Description of IPC Section 314
+315,Description of IPC Section 315
+316,Description of IPC Section 316
+317,Description of IPC Section 317
+318,Description of IPC Section 318
+319,Description of IPC Section 319
+320,Description of IPC Section 320
+321,Description of IPC Section 321
+322,Description of IPC Section 322
+323,Description of IPC Section 323
+324,Description of IPC Section 324
+325,Description of IPC Section 325
+326,Description of IPC Section 326
+327,Description of IPC Section 327
+328,Description of IPC Section 328
+329,Description of IPC Section 329
+330,Description of IPC Section 330
+331,Description of IPC Section 331
+332,Description of IPC Section 332
+333,Description of IPC Section 333
+334,Description of IPC Section 334
+335,Description of IPC Section 335
+336,Description of IPC Section 336
+337,Description of IPC Section 337
+338,Description of IPC Section 338
+339,Description of IPC Section 339
+340,Description of IPC Section 340
+341,Description of IPC Section 341
+342,Description of IPC Section 342
+343,Description of IPC Section 343
+344,Description of IPC Section 344
+345,Description of IPC Section 345
+346,Description of IPC Section 346
+347,Description of IPC Section 347
+348,Description of IPC Section 348
+349,Description of IPC Section 349
+350,Description of IPC Section 350
+351,Description of IPC Section 351
+352,Description of IPC Section 352
+353,Description of IPC Section 353
+354,"Assault or criminal force to woman with intent to outrage her modesty:
+This section is aimed at protecting the modesty of women. Whoever:
+Assaults or
+Uses criminal force
+On a woman
+With intent to outrage her modesty, shall be punished with:
+Imprisonment of 1 to 5 years, and Fine
+📌 Example: A forcibly touches a woman inappropriately in public. A is punishable under Section 354."
+355,Description of IPC Section 355
+356,Description of IPC Section 356
+357,Description of IPC Section 357
+358,Description of IPC Section 358
+359,Description of IPC Section 359
+360,Description of IPC Section 360
+361,Description of IPC Section 361
+362,Description of IPC Section 362
+363,Description of IPC Section 363
+364,Description of IPC Section 364
+365,Description of IPC Section 365
+366,Description of IPC Section 366
+367,Description of IPC Section 367
+368,Description of IPC Section 368
+369,Description of IPC Section 369
+370,Description of IPC Section 370
+371,Description of IPC Section 371
+372,Description of IPC Section 372
+373,Description of IPC Section 373
+374,Description of IPC Section 374
+375,Description of IPC Section 375
+376,"Punishment for Rape:
+This is a very serious and sensitive section, dealing with rape.
+Whoever commits rape, shall be punished with:
+Rigorous imprisonment of not less than 10 years, which may extend to life imprisonment, and Fine
+🚨 The punishment is stricter in certain aggravated cases (like rape of a minor, gang rape, rape by public servants, etc.).
+📌 Example: A forcibly has sexual intercourse with a woman without her consent. A is liable under Section 376."
+377,Description of IPC Section 377
+378,Description of IPC Section 378
+379,Description of IPC Section 379
+380,Description of IPC Section 380
+381,Description of IPC Section 381
+382,Description of IPC Section 382
+383,Description of IPC Section 383
+384,Description of IPC Section 384
+385,Description of IPC Section 385
+386,Description of IPC Section 386
+387,Description of IPC Section 387
+388,Description of IPC Section 388
+389,Description of IPC Section 389
+390,Description of IPC Section 390
+391,Description of IPC Section 391
+392,Description of IPC Section 392
+393,Description of IPC Section 393
+394,Description of IPC Section 394
+395,Description of IPC Section 395
+396,Description of IPC Section 396
+397,Description of IPC Section 397
+398,Description of IPC Section 398
+399,Description of IPC Section 399
+400,Description of IPC Section 400
+401,Description of IPC Section 401
+402,Description of IPC Section 402
+403,Description of IPC Section 403
+404,Description of IPC Section 404
+405,Description of IPC Section 405
+406,Description of IPC Section 406
+407,Description of IPC Section 407
+408,Description of IPC Section 408
+409,Description of IPC Section 409
+410,Description of IPC Section 410
+411,Description of IPC Section 411
+412,Description of IPC Section 412
+413,Description of IPC Section 413
+414,Description of IPC Section 414
+415,Description of IPC Section 415
+416,Description of IPC Section 416
+417,Description of IPC Section 417
+418,Description of IPC Section 418
+419,Description of IPC Section 419
+420,"Cheating and dishonestly inducing delivery of property:
+This section applies when someone:
+Cheats another person, and
+Dishonestly induces them to:
+Deliver property, or
+Alter or destroy valuable documents, etc.
+Punishment: Imprisonment up to 7 years, and Fine
+📌 Example: A falsely promises B a job and takes ₹1 lakh from B. A never had such a job offer. This is cheating under Section 420."
+421,Description of IPC Section 421
+422,Description of IPC Section 422
+423,Description of IPC Section 423
+424,Description of IPC Section 424
+425,Description of IPC Section 425
+426,Description of IPC Section 426
+427,Description of IPC Section 427
+428,Description of IPC Section 428
+429,Description of IPC Section 429
+430,Description of IPC Section 430
+431,Description of IPC Section 431
+432,Description of IPC Section 432
+433,Description of IPC Section 433
+434,Description of IPC Section 434
+435,Description of IPC Section 435
+436,Description of IPC Section 436
+437,Description of IPC Section 437
+438,Description of IPC Section 438
+439,Description of IPC Section 439
+440,Description of IPC Section 440
+441,Description of IPC Section 441
+442,Description of IPC Section 442
+443,Description of IPC Section 443
+444,Description of IPC Section 444
+445,Description of IPC Section 445
+446,Description of IPC Section 446
+447,Description of IPC Section 447
+448,Description of IPC Section 448
+449,Description of IPC Section 449
+450,Description of IPC Section 450
+451,Description of IPC Section 451
+452,Description of IPC Section 452
+453,Description of IPC Section 453
+454,Description of IPC Section 454
+455,Description of IPC Section 455
+456,Description of IPC Section 456
+457,Description of IPC Section 457
+458,Description of IPC Section 458
+459,Description of IPC Section 459
+460,Description of IPC Section 460
+461,Description of IPC Section 461
+462,Description of IPC Section 462
+463,Description of IPC Section 463
+464,Description of IPC Section 464
+465,Description of IPC Section 465
+466,Description of IPC Section 466
+467,Description of IPC Section 467
+468,Description of IPC Section 468
+469,Description of IPC Section 469
+470,Description of IPC Section 470
+471,Description of IPC Section 471
+472,Description of IPC Section 472
+473,Description of IPC Section 473
+474,Description of IPC Section 474
+475,Description of IPC Section 475
+476,Description of IPC Section 476
+477,Description of IPC Section 477
+478,Description of IPC Section 478
+479,Description of IPC Section 479
+480,Description of IPC Section 480
+481,Description of IPC Section 481
+482,Description of IPC Section 482
+483,Description of IPC Section 483
+484,Description of IPC Section 484
+485,Description of IPC Section 485
+486,Description of IPC Section 486
+487,Description of IPC Section 487
+488,Description of IPC Section 488
+489,Description of IPC Section 489
+490,Description of IPC Section 490
+491,Description of IPC Section 491
+492,Description of IPC Section 492
+493,Description of IPC Section 493
+494,Description of IPC Section 494
+495,Description of IPC Section 495
+496,Description of IPC Section 496
+497,Description of IPC Section 497
+498,Description of IPC Section 498
+499,Description of IPC Section 499
+500,Description of IPC Section 500
+501,Description of IPC Section 501
+502,Description of IPC Section 502
+503,Description of IPC Section 503
+504,Description of IPC Section 504
+505,Description of IPC Section 505
+506,Description of IPC Section 506
+507,Description of IPC Section 507
+508,Description of IPC Section 508
+509,Description of IPC Section 509
+510,Description of IPC Section 510
+511,Description of IPC Section 511
