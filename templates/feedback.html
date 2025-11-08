@@ -9,6 +9,7 @@
 </head>
 <body>
     {% block content %}
+    <img class="logo" src="../static/la.jpg" />
     <h2 class="levelhead">Level {{ level }}</h2>
     <div class="fbdiv">
         <p class="youranswerspara"><strong>Your Answers:</strong> {{ selected | join(', ') }}</p>
