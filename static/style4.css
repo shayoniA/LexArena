@@ -62,3 +62,9 @@ body {
     margin: auto;
     display: flex;
 }
+
+.logo {
+    width: 75px; height: 75px;
+    border-radius: 50%; border: none;
+    position: absolute; top: 12px; left: 12px;
+}
