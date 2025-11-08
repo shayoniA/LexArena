@@ -104,6 +104,8 @@ def submit_answer():
     explanations = list(descriptions_collection.find({
         "IPC_section_number": {"$in": [int(x) for x in correct_numbers]}
     }))
+    if isinstance(explanations, list):
+        explanations = pd.DataFrame(explanations)
     
     user = get_user(username)
     level = user['level']
