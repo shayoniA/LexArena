@@ -100,7 +100,6 @@ def submit_answer():
     correct_sections = list(map(str, session.get("correct_answers", [])))
     selected_sections = list(map(str, request.form.getlist("selected_answers")))
 
-    df_desc = pd.read_csv(DESCRIPTIONS_FILE)
     correct_numbers = [s.split()[-1] for s in correct_sections]
     explanations = list(descriptions_collection.find({
         "IPC_section_number": {"$in": [int(x) for x in correct_numbers]}
