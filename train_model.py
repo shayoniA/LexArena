@@ -6,8 +6,17 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
+from pymongo import MongoClient
+from dotenv import load_dotenv
+import os
 
-df = pd.read_csv('data/NextQuestionClassifier.csv')
+load_dotenv()
+MONGO_URI = os.getenv("MONGO_URI")
+client = MongoClient(MONGO_URI)
+db = client["legal_quiz_game"]
+classifier_collection = db["next_question_classifier"]
+data = list(classifier_collection.find({}, {"_id": 0}))
+df = pd.DataFrame(data)
 
 X = df.iloc[:, :-1].values
 y = df.iloc[:, -1].values
