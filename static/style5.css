@@ -54,3 +54,9 @@ li {
 .strongsections {
     color: rgb(191, 255, 0); font-weight: 300;
 }
+
+.logo {
+    width: 75px; height: 75px;
+    border-radius: 50%; border: none;
+    position: absolute; top: 12px; left: 12px;
+}
