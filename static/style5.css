@@ -24,7 +24,12 @@ body {
     background-color: chocolate;
     border-radius: 20px; padding: 10px;
     border: none; cursor: pointer;
-    position: relative; left: 535px;
+    margin: auto; text-decoration: none;
+    display: flex;
+}
+
+a {
+  text-decoration: none;
 }
 
 .youranswerspara, .correctanswerspara {

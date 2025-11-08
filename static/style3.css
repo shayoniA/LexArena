@@ -11,9 +11,34 @@ body {
 
 .scorediv, .leveldiv {
     border-radius: 50%; border: none;
-    width: 200px; height: 200px;
+    width: 20vw; height: 20vw;
     background-color: rgb(194, 94, 23);
     position: relative;
+}
+
+.scoreleveldiv {
+    display: flex; flex-direction: row;
+    gap: 75px; justify-content: center;
+    margin-top: 125px;
+}
+
+@media (min-width: 730px) and (max-width: 830px) {
+  .welcomepara {
+    font-size: 25px;
+  }
+}
+@media (min-width: 580px) and (max-width: 830px) {
+  .welcomepara {
+    font-size: 30px;
+  }
+}
+@media (max-width: 580px) {
+  .welcomepara {
+    display: none;
+  }
+  .scorediv, .leveldiv {
+    width: 25vw; height: 25vw;
+  }
 }
 
 .scorediv p, .leveldiv p {
@@ -26,13 +51,57 @@ body {
 
 .scoreleveldiv {
     display: flex; flex-direction: row;
-    gap: 75px; justify-content: center;
+    gap: 45px; justify-content: center;
     margin-top: 125px;
 }
 
+.textspan {
+    font-size: 20px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1.25px;
+    visibility: visible;
+}
+
 .scorelevelspan {
-    font-size: 80px; display: block;
+    font-size: 8vw; display: block;
     color: chartreuse; visibility: visible;
+}
+@media (min-width: 580px) and (max-width: 765px) {
+  .scorelevelspan {
+    font-size: 6.75vw;
+  }
+}
+@media (min-width: 730px) and (max-width: 910px) {
+  .textspan {
+    font-size: 17px;
+  }
+}
+@media (min-width: 680px) and (max-width: 730px) {
+  .textspan {
+    font-size: 15px;
+  }
+}
+@media (min-width: 580px) and (max-width: 680px) {
+  .textspan {
+    font-size: 14px;  color: black;
+    position: relative; top: 5vw;
+  }
+  .scorelevelspan {
+    position: relative; bottom: 2vw;
+  }
+}
+@media (max-width: 580px) {
+  .textspan {
+    font-size: 2.75vw;
+    position: relative; bottom: 5vw;
+  }
+  .scorelevelspan {
+    position: relative; bottom: 6vw;
+  }
+  .scoreleveldiv {
+    margin-bottom: 10vw;
+  }
 }
 
 .nextlevellink button, .whereamilink button, .logoutlink button {
@@ -60,23 +129,12 @@ body {
 .curved-text-score {
   width: 300px; height: 150px;
   z-index: 1000;
-  position: absolute; top: 100px; left: 112px;
+  position: absolute; top: 100px;
+  left: calc((100vw - 400px) / 10);
 }
 
 .curved-text-level {
   width: 300px; height: 150px;
   z-index: 1000;
-  position: absolute; top: 100px; right: 112px;
-}
-
-.curved-text text {
-  font-size: 20px; fill: white;
-  font-family: 'Poppins', sans-serif;
-  text-shadow:
-        0 0 5px white,
-        0 0 10px white,
-        0 0 20px white,
-        0 0 30px white,
-        0 0 40px white;
-  letter-spacing: 1.25px;
+  position: absolute; top: 100px; right: 11.2vw;
 }

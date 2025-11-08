@@ -6,11 +6,11 @@ import time
 import json
 from bson import ObjectId
 from db import users_collection
+from db import descriptions_collection
+from db import questions_collection
 
 quiz_bp = Blueprint("quiz", __name__)
 
-QUESTIONS_FILE = "data/QuestionAnswer.csv"
-DESCRIPTIONS_FILE = "data/Descriptions.csv"
 CLASSIFIER_FILE = "ml/model.pkl"
 SCALER_FILE = "scaler.pkl"
 
@@ -48,12 +48,10 @@ def next_question():
     score = user['score']
     history = user['history']
 
-    df = pd.read_csv(QUESTIONS_FILE)
-    df["IPC_section_number"] = df["IPC_section_number"].astype(int)
-    filtered = df[df["IPC_section_number"] == level]
-    if filtered.empty:
+    filtered = list(questions_collection.find({"IPC_section_number": level}))
+    if not filtered:
         return f"No question found for IPC Section {level}", 404
-    question_row = filtered.iloc[0]
+    question_row = filtered[0]
 
     # Determine question category
     if level <= 3:
@@ -104,7 +102,9 @@ def submit_answer():
 
     df_desc = pd.read_csv(DESCRIPTIONS_FILE)
     correct_numbers = [s.split()[-1] for s in correct_sections]
-    explanations = df_desc[df_desc["IPC_section_number"].astype(str).isin(correct_numbers)]
+    explanations = list(descriptions_collection.find({
+        "IPC_section_number": {"$in": [int(x) for x in correct_numbers]}
+    }))
     
     user = get_user(username)
     level = user['level']

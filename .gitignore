@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+
+# Model and data files
+*.pkl
+*.csv
+*.jpg
+*.png

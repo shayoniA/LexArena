@@ -10,11 +10,11 @@
 <body>
     {% block content %}
     <div class="scoreleveldiv">
-        <div class="scorediv"><p class="nowscore"><span class="scorelevelspan">{{ score }}</span></p></div>
+        <div class="scorediv"><p class="nowscore"><span class="scorelevelspan">{{ score }}</span><span class="textspan">-- SCORE --</span></p></div>
         {% if session.username %}
             <p class="welcomepara">Welcome, <span id="username">{{ session.username }}</span>!</p>
         {% endif %}
-        <div class="leveldiv"><p class="nowlevel"><span class="scorelevelspan">{{ level }}</span></p></div>
+        <div class="leveldiv"><p class="nowlevel"><span class="scorelevelspan">{{ level }}</span><span class="textspan">-- LEVEL --</span></p></div>
     </div>
     <div class="threelinksdiv">
         <a class="nextlevellink" href="/quiz/next"><button>Start Quiz</button></a>
@@ -23,15 +23,6 @@
         </a>
         <a class="logoutlink" href="/auth/signup"><button type="button">Log out</button></a>
     </div>
-
-    <svg class="curved-text-score curved-text" viewBox="0 0 300 150">
-        <path id="text-curve" d="M 50 100 Q 150 0 250 100" fill="transparent" />
-        <text><textPath href="#text-curve" startOffset="50%" text-anchor="middle">-- SCORE --</textPath></text>
-    </svg>
-    <svg class="curved-text-level curved-text" viewBox="0 0 300 150">
-        <path id="text-curve" d="M 50 100 Q 150 0 250 100" fill="transparent" />
-        <text><textPath href="#text-curve" startOffset="50%" text-anchor="middle">-- LEVEL --</textPath></text>
-    </svg>
     
     {% endblock %}
 

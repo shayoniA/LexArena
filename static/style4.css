@@ -40,7 +40,8 @@ body {
 
 .alloptions {
     display: grid; margin-left: 35px;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    max-width: 100%;
 }
 
 .checkboxes {
@@ -51,9 +52,13 @@ body {
 
 .submitbtn {
     font-family: 'Montserrat', sans-serif;
-    font-size: 18px; font-weight: 600;
+    font-size: 18px;
+    font-weight: 600;
     background-color: chocolate;
-    border-radius: 20px; padding: 10px;
-    border: none; cursor: pointer;
-    position: relative; left: 610px;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin: auto;
+    display: flex;
 }

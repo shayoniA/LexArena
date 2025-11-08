@@ -9,5 +9,12 @@ app.secret_key = "your-secret-key"
 app.register_blueprint(auth_bp, url_prefix="/auth")
 app.register_blueprint(quiz_bp, url_prefix="/quiz")
 
+@app.route("/")
+def index():
+    from flask import session, redirect
+    if "username" in session:
+        return redirect("/quiz/home")
+    return redirect("/auth/login")
+
 if __name__ == "__main__":
     app.run(debug=True)
