@@ -17,7 +17,7 @@ body {
 .loginhead {
     font-size: 34px; font-family: 'Poppins', sans-serif;
     text-align: center; font-weight: 600;
-    margin-top: 75px; margin-bottom: 0;
+    margin-top: 100px; margin-bottom: 0;
 }
 
 label {
@@ -50,11 +50,11 @@ form {
 }
 
 input {
-    width: 65%; height: 42px; margin: auto;
+    width: 65%; height: 37px; margin: auto;
     border: none; border-radius: 10px;
     padding-left: 20px; color: black;
     font-size: 17px; font-family: 'Lora', serif;
-    background-color: azure;
+    background-color: rgb(255, 245, 213);
     margin-top: 12px; margin-bottom: 20px;
 }
 
