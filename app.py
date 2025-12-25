@@ -4,7 +4,7 @@ from quiz import quiz_bp
 import os
 
 app = Flask(__name__)
-app.secret_key = "your-secret-key"
+app.secret_key = os.getenv("SECRET_KEY", "dev-secret")
 
 # Register blueprints
 app.register_blueprint(auth_bp, url_prefix="/auth")
