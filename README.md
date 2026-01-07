@@ -1,5 +1,5 @@
-# LexArena ⚖️  
-An adaptive law-learning gamified quiz platform, designed to help users learn IPC sections in a personalized way, such that learning is structured, interactive, and progressively challenging.
+# LexArena
+An adaptive law-learning gamified quiz platform, designed to help users learn IPC sections in a personalized way, such that learning is structured, interactive, and progressively challenging. Demo video:  [https://drive.google.com/file/d/1G3YsW7lu6WJyhgZa5V6vGTe90TALWVo7/view]
 
 ---
 
